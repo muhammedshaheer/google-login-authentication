@@ -1,4 +1,4 @@
-# google-login-authentication
+# Google Login Authentication
 Google Login Authentication using Spring Boot and Spring Security
 
 ## Technology Stack
