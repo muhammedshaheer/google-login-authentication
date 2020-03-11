@@ -7,7 +7,7 @@ security:
   auth:
     google:
       client:
-        clientId: 426169661964-vr7pea86l9eg52jpgon35g7u80cdlcr9.apps.googleusercontent.com
+        clientId: abcdddlcr9.apps.googleusercontent.com
     processingUrl: "/login/google"
     token:
       validity: 21600
